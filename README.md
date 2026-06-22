@@ -1,9 +1,9 @@
 <img src="project-logo.png" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 
-> Template files for writing maintanable GitHub projects. Make your repo pretty!
+> Template files for writing maintainable GitHub projects. Make your repo pretty!
 
-[![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cezaraugusto/github-template-guidelines) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cezaraugusto/github-template-guidelines.svg)](http://github.com/cezaraugusto/github-template-guidelines)
+[![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cezaraugusto/github-template-guidelines) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 So you had an idea and developed the next world's industry-changing application. You decided to open-source it because you're way cool. Now you need to educate people about your project and need some docs to get started. You got it. :alien:
 
@@ -22,7 +22,7 @@ Clone this project and name it accordingly:
 
 # Getting Started
 
-This project is a collection of [boilerplate](http://whatis.techtarget.com/definition/boilerplate) (template) files with resumed guidelines for `README`, `CONTRIBUTING` and `CONTRIBUTORS` documentation. It also includes a basic `ISSUE_TEMPLATE` and `PULL_REQUEST_TEMPLATE` which are now [allowed by GitHub](https://github.com/blog/2111-issue-and-pull-request-templates). All templates are filled under `.github/` folder. This `README` itself is a fork of the `README` [template](.github/README.md).
+This project is a collection of [boilerplate](http://whatis.techtarget.com/definition/boilerplate) (template) files with resumed guidelines for `README`, `CONTRIBUTING` and `CONTRIBUTORS` documentation. It also includes a basic `ISSUE_TEMPLATE` and `PULL_REQUEST_TEMPLATE`, both supported natively by GitHub. All templates are filled under `.github/` folder. This `README` itself is a fork of the `README` [template](.github/README.md).
 
 ## Usage
 
@@ -34,7 +34,6 @@ This project is a collection of [boilerplate](http://whatis.techtarget.com/defin
 
 > References for starting a Project
 
-* [Helping people contribute to your Project](https://help.github.com/articles/helping-people-contribute-to-your-project/)
 * [Am I Ready to Open Source it?](https://gist.github.com/PurpleBooth/6f1ba788bf70fb501439#file-am-i-ready-to-open-source-this-md)
 
 > `README` References
@@ -45,7 +44,6 @@ This project is a collection of [boilerplate](http://whatis.techtarget.com/defin
 
 > `CONTRIBUTING` References
 
-* [Setting Guidelines for Repository Contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 * [Contributor Covenant](http://contributor-covenant.org/)
 
 > `CHANGELOG` References
@@ -57,8 +55,6 @@ This project is a collection of [boilerplate](http://whatis.techtarget.com/defin
 
 > `ISSUE_TEMPLATE` and `PULL_REQUEST_TEMPLATE` References
 
-* [Creating an Issue Template for your repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository/)
-* [Creating a Pull Request Template for your repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/)
 * [Awesome GitHub Templates](https://github.com/devspace/awesome-github-templates)
 
 > `CONTRIBUTORS` References
@@ -75,7 +71,7 @@ Billie_Thompson PurpleBooth http://purplebooth.co.uk example
 Contributors END -->
 
 <!-- Contributors table START -->
-| [![Cezar Augusto](https://avatars.githubusercontent.com/cezaraugusto?s=100)<br /><sub>Cezar Augusto</sub>](http://cezaraugusto.net)<br />[📖](git@github.com:cezaraugusto/You-Dont-Know-JS/commits?author=cezaraugusto) 💡 👀 | [![Nathalia Bruno](https://avatars.githubusercontent.com/nathaliabruno?s=100)<br /><sub>Nathalia Bruno</sub>](http://nathaliabruno.com)<br />[📖](git@github.com:cezaraugusto/You-Dont-Know-JS/commits?author=nathaliabruno) 👀 | [![Billie Thompson](https://avatars.githubusercontent.com/PurpleBooth?s=100)<br /><sub>Billie Thompson</sub>](http://purplebooth.co.uk)<br />💡 |
+| [![Cezar Augusto](https://avatars.githubusercontent.com/cezaraugusto?s=100)<br /><sub>Cezar Augusto</sub>](http://cezaraugusto.net)<br />[📖](git@github.com:cezaraugusto/github-template-guidelines/commits?author=cezaraugusto) 💡 👀 | [![Nathalia Bruno](https://avatars.githubusercontent.com/nathaliabruno?s=100)<br /><sub>Nathalia Bruno</sub>](http://nathaliabruno.com)<br />[📖](git@github.com:cezaraugusto/github-template-guidelines/commits?author=nathaliabruno) 👀 | [![Billie Thompson](https://avatars.githubusercontent.com/PurpleBooth?s=100)<br /><sub>Billie Thompson</sub>](http://purplebooth.co.uk)<br />💡 |
 | :---: | :---: | :---: |
 <!-- Contributors table END -->
 
